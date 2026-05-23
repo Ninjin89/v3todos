@@ -54,6 +54,13 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 - [ ] **Naming clarity** for all admin menu settings.
 - [ ] **Coordinate picker** for all coordinate settings (teleport, staylimit, nologout): pressing Add uses player position, checkbox allows map-click as alternative.
 
+### Missing Stuff
+
+- [ ] **PaintBallMod SUpport** (maybe).
+- [ ] **Other State Types and Zone Types**
+- [ ] **Lockpicking**
+- [ ] **LB Admin Support** for all admin menu settings.
+
 ### Weapons and damage types
 
 - [ ] Expansion RPG launchers (damage and zone rules as needed).
@@ -73,13 +80,11 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 
 - [ ] **Vehicle damage tests**, zones, safe zone, water, modules, combat damage, still need a full pass.
 
-### Cross-zone PvE vs PvP (throws, launchers)
+### Cross-zone PvE vs PvP
 
 - [ ] 
 
-### PvP damage between zones (priority rule)
-
-_Optional, low priority._
+### PvP damage between zones
 
 - [ ]
 
