@@ -50,11 +50,11 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 
 - [ ] **Icon preview** for objects.
 - [ ] **Live logs for Actions** Adding a WIndow that shows actionnames used and its item/target/door-index to have it copy paste ready.
-- [ ] **X button behind textbox/editbox** That will fully clear text inside the textbox/editbox.
+- [x] **X button behind textbox/editbox** That will fully clear text inside the.
 - [ ] **Territory mode selector** - use `XComboBoxWidget` for Raise, Lowered, Always.
 - [ ] **Add/remove button overlaps**, resolve layout so buttons do not overlap.
 - [ ] **Naming clarity** for all admin menu settings.
-- [ ] **Coordinate picker** for all coordinate settings (teleport, staylimit, nologout): pressing Add uses player position, checkbox allows map-click as alternative.
+- [x] **Coordinate picker** for all coordinate settings (teleport, staylimit, nologout): pressing Add uses player position, checkbox allows map-click as alternative.
 
 ### Missing Stuff
 
