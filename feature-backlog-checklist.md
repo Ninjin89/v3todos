@@ -50,6 +50,7 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 
 - [x] **Icon preview** for objects.
 - [x] **Live logs for Actions** Adding a WIndow that shows actionnames used and its item/target/door-index to have it copy paste ready.
+    - [] **needs vertical scroll also**
 - [x] **X button behind textbox/editbox** That will fully clear text inside the.
 - [ ] **Territory mode selector** - use `XComboBoxWidget` for Raise, Lowered, Always.
 - [ ] **Add/remove button overlaps**, resolve layout so buttons do not overlap.
