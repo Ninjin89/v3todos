@@ -69,15 +69,16 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 - [ ] **Lockpicking**
 - [ ] **LB Admin Support** for all admin menu settings.
 - [ ] **Expansion Spawnselect**, show zones on expansion spawnselect (but no map legend panel there).
+- [ ] **Hunterz AI bandits**, damage system hooks and zone behavior still to align.
+- [ ] **Remote detonation vs placement zone**, if a mine or charge was placed in PvP but the arming player is in PvE (or the reverse), block detonation when current zone state does not match placement state. Always cross-check placer state at arm time and at trigger time.
 
 ### Weapons and damage types
 
 - [ ] Expansion RPG launchers (damage and zone rules as needed).
 
 ### Bugs and sync
+- [ ] **Client crash on logout/exit** Client crashes when Admin Menu still has open Windows, if not having open windows it doesnt crash.
 
-- [ ] **Hunterz AI bandits**, damage system hooks and zone behavior still to align.
-- [ ] **Remote detonation vs placement zone**, if a mine or charge was placed in PvP but the arming player is in PvE (or the reverse), block detonation when current zone state does not match placement state. Always cross-check placer state at arm time and at trigger time.
 - [ ] **`blockWeaponRaise` per zone**, zone JSON flag to block weapon raise only (not full fire deny).
 
 ### Safe zone
