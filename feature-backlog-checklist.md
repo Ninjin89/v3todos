@@ -52,6 +52,7 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 - [x] **Add Folder** create a new zone folder in zone-editor.
 - [x] **Remove Folder** remove a selected zone folder in zone-editor.
 - [x] **Coordinate picker** for all coordinate settings (teleport, staylimit, nologout): pressing Add uses player position, checkbox allows map-click as alternative.
+- [x] **Territory mode selector** - use `XComboBoxWidget` for Raise, Lowered, Always.
 
 ---
 
@@ -59,9 +60,10 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 
 ### Admin Menu
 
-- [ ] **Territory mode selector** - use `XComboBoxWidget` for Raise, Lowered, Always.
+
 - [ ] **Naming clarity** for all admin menu settings.
 - [ ] **ColorPicker** for all admin menu settings that use argb/int color vales.
+
 
 ### Missing Stuff
 
