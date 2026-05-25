@@ -60,6 +60,8 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 
 ## Open
 
+- [] *Optemize RPCs** trace and optimize rpcs.
+
 ### Admin Menu
 
 ### Missing Stuff
