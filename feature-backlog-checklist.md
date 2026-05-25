@@ -54,17 +54,13 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 - [x] **Coordinate picker** for all coordinate settings (teleport, staylimit, nologout): pressing Add uses player position, checkbox allows map-click as alternative.
 - [x] **Territory mode selector** - use `XComboBoxWidget` for Raise, Lowered, Always.
 - [x] **ColorPicker** for all admin menu settings that use argb/int color vales.
+- [x] **Naming clarity** for all admin menu settings.
 
 ---
 
 ## Open
 
 ### Admin Menu
-
-
-- [ ] **Naming clarity** for all admin menu settings.
-
-
 
 ### Missing Stuff
 
