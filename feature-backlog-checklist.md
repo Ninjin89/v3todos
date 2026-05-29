@@ -65,6 +65,11 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 
 - [] **Drawing Logic** maybe move it to core so it can be used by all coming mods again.
 - [] **Item-Search** Opening Item-Search and zone-editor can cause zones to draw on Item-Serch - needs fix, maybe make a own map window not shared with zone editor.
+- [] **Icon Picker** still needs X button on window to close.
+- [] **Color Picker** still needs X button on window to close.
+- [] **Browse Item-Preview** still needs X button on window to close.
+- [] **Add Item - Item-Preview** needs re-position more down .
+
 
 ### Admin Menu
 
