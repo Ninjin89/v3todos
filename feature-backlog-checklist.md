@@ -66,6 +66,7 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 ### Admin Menu
 
 - [] **Zone logging** ZoneEditorReceivedLog on client enable/disable.
+- [] **Vertexes do get cleared** when switching polygon to circle and circle to polygon when close and open zone editr and so on.
 
 ### Missing Stuff
 
