@@ -55,6 +55,8 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 - [x] **Territory mode selector** - use `XComboBoxWidget` for Raise, Lowered, Always.
 - [x] **ColorPicker** for all admin menu settings that use argb/int color vales.
 - [x] **Naming clarity** for all admin menu settings.
+- [x] **Vertexes do get cleared** when switching polygon to circle and circle to polygon when close and open zone editr and so on.
+- [x] **Icons** for: save,reload,viw raw,add,remove.
 
 ---
 
@@ -66,7 +68,8 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 ### Admin Menu
 
 - [] **Zone logging** ZoneEditorReceivedLog on client enable/disable.
-- [] **Vertexes do get cleared** when switching polygon to circle and circle to polygon when close and open zone editr and so on.
+- [] **Item-Search** itemsearch adding back.
+
 
 ### Missing Stuff
 
