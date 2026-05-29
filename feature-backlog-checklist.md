@@ -57,18 +57,19 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 - [x] **Naming clarity** for all admin menu settings.
 - [x] **Vertexes do get cleared** when switching polygon to circle and circle to polygon when close and open zone editr and so on.
 - [x] **Icons** for: save,reload,viw raw,add,remove.
+- [x] **Item-Search** itemsearch adding back.
 
 ---
 
 ## Open
 
-- [] *Drawing Logic** maybe move it to core so it can be used by all coming mods again.
-
+- [] **Drawing Logic** maybe move it to core so it can be used by all coming mods again.
+- [] **Item-Search** Opening Item-Search and zone-editor can cause zones to draw on Item-Serch - needs fix.
 
 ### Admin Menu
 
 - [] **Zone logging** ZoneEditorReceivedLog on client enable/disable.
-- [] **Item-Search** itemsearch adding back.
+
 - [] **Folder Adding** Zone-Editor add popuop for adding new folder for name asking same as for new zone add.
 
 
