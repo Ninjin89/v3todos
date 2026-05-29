@@ -7,7 +7,7 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 ## Done
 
 ### Map and zones
-
+- [x] **Optemize RPCs** trace and optimize rpcs.
 - [x] **`mapDrawSettings` per zone**, `NearestZones` mesh, nest edges when zones overlap (any priority). Reference: `Bilder > meshing.png`.
 - [x] **Toxic zones** (`ContaminatedArea_Dynamic` + `eventHosting`) survive `!rlz`, removed only when the host `EEDelete`s.
 - [x] **Zone enter gear** (enter only, no exit restore): `TurnOffListedEnergyOnZoneEnter` + `energyOffItemClassNames`, `ApplyItemListOnZoneEnter` + `itemClassNamesOnZoneEnter`, inventory preorder via `NinjinsUpgraded_EnterFix`.
@@ -62,7 +62,7 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 
 ## Open
 
-- [] **Optemize RPCs** trace and optimize rpcs.
+
 
 
 ### Admin Menu
