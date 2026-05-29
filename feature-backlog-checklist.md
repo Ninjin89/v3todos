@@ -69,6 +69,7 @@ Living list of shipped fixes and open work. Mark items `[x]` when done, `[ ]` wh
 
 - [] **Zone logging** ZoneEditorReceivedLog on client enable/disable.
 - [] **Item-Search** itemsearch adding back.
+- [] **Folder Adding** Zone-Editor add popuop for adding new folder for name asking same as for new zone add.
 
 
 ### Missing Stuff
